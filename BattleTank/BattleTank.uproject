@@ -7,11 +7,15 @@
 		{
 			"Name": "BattleTank",
 			"Type": "Runtime",
+<<<<<<< HEAD
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"Engine",
 				"AIModule"
 			]
+=======
+			"LoadingPhase": "Default"
+>>>>>>> 39556bf2f8ec76045dc250d9bc141eb17d17c20e
 		}
 	]
 }
